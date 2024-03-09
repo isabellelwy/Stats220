@@ -1,7 +1,8 @@
 # STATS 220
 
-### hello! my name is isabelle :)
+## hello! my name is isabelle :)
 
+### I am studying a bcom/bsc conjoint, majoring in marketing, business analytics and stats! this is my demo repo for stats 220 project 1 but I hope to continue updating my github profile 😁
 #### a bit about me:
 - i like to watch movies
 - i enjoy baking and cooking
@@ -12,6 +13,6 @@
 2. beef noodles 🍜
 3. fried chicken 🍗
 
-[check out my favourite movie!](https://www.kaggle.com/learn/intro-to-programming)
+[click this if you're bored](https://www.boredbutton.com/)
 
 
